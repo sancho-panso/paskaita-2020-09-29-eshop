@@ -1,0 +1,13 @@
+C:\Users\Michail\source\repos\paskaita-2020-09-29-eshop\paskaita-2020-09-29-eshop\bin\Debug\netcoreapp3.1\paskaita-2020-09-29-eshop.exe
+C:\Users\Michail\source\repos\paskaita-2020-09-29-eshop\paskaita-2020-09-29-eshop\bin\Debug\netcoreapp3.1\paskaita-2020-09-29-eshop.deps.json
+C:\Users\Michail\source\repos\paskaita-2020-09-29-eshop\paskaita-2020-09-29-eshop\bin\Debug\netcoreapp3.1\paskaita-2020-09-29-eshop.runtimeconfig.json
+C:\Users\Michail\source\repos\paskaita-2020-09-29-eshop\paskaita-2020-09-29-eshop\bin\Debug\netcoreapp3.1\paskaita-2020-09-29-eshop.runtimeconfig.dev.json
+C:\Users\Michail\source\repos\paskaita-2020-09-29-eshop\paskaita-2020-09-29-eshop\bin\Debug\netcoreapp3.1\paskaita-2020-09-29-eshop.dll
+C:\Users\Michail\source\repos\paskaita-2020-09-29-eshop\paskaita-2020-09-29-eshop\bin\Debug\netcoreapp3.1\paskaita-2020-09-29-eshop.pdb
+C:\Users\Michail\source\repos\paskaita-2020-09-29-eshop\paskaita-2020-09-29-eshop\obj\Debug\netcoreapp3.1\paskaita-2020-09-29-eshop.csprojAssemblyReference.cache
+C:\Users\Michail\source\repos\paskaita-2020-09-29-eshop\paskaita-2020-09-29-eshop\obj\Debug\netcoreapp3.1\paskaita-2020-09-29-eshop.AssemblyInfoInputs.cache
+C:\Users\Michail\source\repos\paskaita-2020-09-29-eshop\paskaita-2020-09-29-eshop\obj\Debug\netcoreapp3.1\paskaita-2020-09-29-eshop.AssemblyInfo.cs
+C:\Users\Michail\source\repos\paskaita-2020-09-29-eshop\paskaita-2020-09-29-eshop\obj\Debug\netcoreapp3.1\paskaita-2020-09-29-eshop.csproj.CoreCompileInputs.cache
+C:\Users\Michail\source\repos\paskaita-2020-09-29-eshop\paskaita-2020-09-29-eshop\obj\Debug\netcoreapp3.1\paskaita-2020-09-29-eshop.dll
+C:\Users\Michail\source\repos\paskaita-2020-09-29-eshop\paskaita-2020-09-29-eshop\obj\Debug\netcoreapp3.1\paskaita-2020-09-29-eshop.pdb
+C:\Users\Michail\source\repos\paskaita-2020-09-29-eshop\paskaita-2020-09-29-eshop\obj\Debug\netcoreapp3.1\paskaita-2020-09-29-eshop.genruntimeconfig.cache

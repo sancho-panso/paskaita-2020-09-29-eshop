@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "paskaita-2020-09-29-eshop/1.0.0": {
+        "runtime": {
+          "paskaita-2020-09-29-eshop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "paskaita-2020-09-29-eshop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
